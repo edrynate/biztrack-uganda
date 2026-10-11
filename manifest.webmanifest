@@ -1,0 +1,19 @@
+{
+  "name": "BizTrack Uganda",
+  "short_name": "BizTrack",
+  "description": "Offline-first sales, expenses and stock tracker for small retail shops.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#153d32",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
